@@ -1,0 +1,1 @@
+int isPalindrom(char *,int);
